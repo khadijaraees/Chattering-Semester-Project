@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675108659575",
+    "project_id": "chattering-58cd8",
+    "storage_bucket": "chattering-58cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675108659575:android:0b28ede9b6e9194bc10172",
+        "android_client_info": {
+          "package_name": "com.fahadmehmood.chattering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675108659575-8pkegmomp5amorf5eiptgfa7e3s5c786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-gufpsaXMYzA5hihFS_3sSYfYD1YFvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675108659575-8pkegmomp5amorf5eiptgfa7e3s5c786.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
